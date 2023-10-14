@@ -24,7 +24,7 @@ cat <<EOF > /var/www/html/index.html
   </style>
 </head>
 <body>
-  <h1>Terraform Project with AWS Server 1</h1>
+  <h1>Terraform Project with AWS Server 2</h1>
   <h2>Instance ID: <span style="color:green">$INSTANCE_ID</span></h2>
   <p>Welcome to Instance-2</p>
   
